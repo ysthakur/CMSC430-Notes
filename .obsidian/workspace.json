@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "99f512692545b467",
+        "id": "3a6ff54a6b60d2bb",
         "type": "tabs",
         "children": [
           {
-            "id": "c7c523a45d2d1f58",
+            "id": "880669e101f5ab3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hustle/Hustle type tags.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "648c64ec7bc9079c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,9 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7c523a45d2d1f58",
+  "active": "648c64ec7bc9079c",
   "lastOpenFiles": [
+    "Hustle/Hustle type tags.md",
+    "Hustle/Hustle features.md",
     "Stack alignment.md",
+    "Untitled.canvas",
+    "2023-11-05.md",
+    "LICENSE",
+    "Hustle",
     "Hoax"
   ]
 }
