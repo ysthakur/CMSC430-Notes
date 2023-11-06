@@ -13,14 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hustle/Hustle type tags.md",
+                "file": "Jig/Jig - Tail Calls.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "648c64ec7bc9079c",
+            "id": "3265a5cea2f66fdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#hustle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stack alignment.md",
+                "file": "Jig/Jig - Tail Calls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stack alignment.md",
+                "file": "Jig/Jig - Tail Calls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stack alignment.md"
+                "file": "Jig/Jig - Tail Calls.md"
               }
             }
           }
@@ -159,11 +158,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "648c64ec7bc9079c",
+  "active": "880669e101f5ab3b",
   "lastOpenFiles": [
-    "Hustle/Hustle type tags.md",
-    "Hustle/Hustle features.md",
     "Stack alignment.md",
+    "Jig/Jig - Tail Calls.md",
+    "Iniquity/Iniquity - Functions.md",
+    "Hustle/Hustle type tags.md",
+    "Hustle/Hustle - Heap allocation.md",
+    "Jig",
+    "Iniquity",
     "Untitled.canvas",
     "2023-11-05.md",
     "LICENSE",

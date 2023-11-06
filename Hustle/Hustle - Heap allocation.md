@@ -1,6 +1,7 @@
 ---
 tags:
-  - hustle
+  - heap
+lang: hustle
 ---
 Hustle adds `(cons a b)` and `(box v)`, which are both allocated on the heap.
 

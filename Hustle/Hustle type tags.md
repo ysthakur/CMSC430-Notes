@@ -1,7 +1,7 @@
 ---
 tags:
-  - hustle
   - type-tag
+lang: hustle
 ---
 We know that pointers in both the stack and heap will always be 8-byte/64-bit aligned,
 meaning they end in `000` in binary.
