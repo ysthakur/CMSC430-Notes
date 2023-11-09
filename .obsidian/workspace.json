@@ -23,15 +23,24 @@
             "id": "3265a5cea2f66fdd",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "a26a7b2b634ab0d3",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Stack alignment.md",
+                "file": "Knock/Knock - Pattern matching.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jig/Jig - Tail Calls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jig/Jig - Tail Calls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Jig/Jig - Tail Calls.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,8 +163,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "880669e101f5ab3b",
+  "active": "3265a5cea2f66fdd",
   "lastOpenFiles": [
+    "Knock/Knock - Pattern matching.md",
+    "Knock",
     "Stack alignment.md",
     "Jig/Jig - Tail Calls.md",
     "Iniquity/Iniquity - Functions.md",

@@ -1,4 +1,6 @@
 {
   "accentColor": "#0ea45e",
-  "theme": "system"
+  "theme": "system",
+  "textFontFamily": "Cascadia Mono",
+  "monospaceFontFamily": "MesloLGL Nerd Font Mono"
 }
